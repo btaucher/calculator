@@ -35,7 +35,7 @@ export default function App(){
   return(
     <main>
       <S.GlobalStyle/>
-      <h1>Calculadora de Gatinho</h1>
+      <h1>Calculadora</h1>
       <input type="number" placeholder="Digite um número aqui" onChange={capturandoPrimeiroValor}/>
       <input type="number" placeholder="Digite um número aqui" onChange={capturandoSegundoValor}/>
       <div class="botoes">
