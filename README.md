@@ -1,8 +1,15 @@
-# React + Vite
+# Calculadora React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Bem-vindo ao repositório!
+Este projeto foi realizado como desafio do módulo 2 para o programa Vai na Web!
+Esta é uma aplicação de calculadora desenvolvida com React e estilizada usando Sass (SCSS). 
+O objetivo é proporcionar uma interface amigável para realizar operações matemáticas básicas, como soma, subtração, multiplicação e divisão.
 
-Currently, two official plugins are available:
+# Tecnologias Utilizadas
+React: Biblioteca JavaScript para criação de interfaces de usuário.
+Sass (SCSS): Preprocessador CSS que permite escrever estilos de forma mais eficiente e organizada.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Funcionalidades
+Operações matemáticas básicas: soma, subtração, multiplicação e divisão.
+Interface intuitiva: projetada para uma experiência de usuário clara e simples.
+Design responsivo: adapta-se a diferentes tamanhos de tela.
